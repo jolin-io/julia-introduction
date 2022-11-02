@@ -1,6 +1,6 @@
-# julia-introduction
+[![jolin.io](https://www.jolin.io/assets/Jolin/Jolin-Banner-Website-v1.1-darkmode.webp)](https://www.jolin.io)
 
-Get to know Julia in just about 30 minutes.
+# 20 minutes introduction to Julia
 
 [Click here](https://mybinder.org/v2/gh/jolin-io/julia-introduction/main?urlpath=pluto/open?path=/home/jovyan/julia-introduction.jl) to start your interactive Julia environment.
 
