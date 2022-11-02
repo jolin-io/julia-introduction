@@ -22,6 +22,7 @@ begin
 	import PlutoUI
 	import Plots
 	using PyCall
+	
 	html"<button onclick='present()'>Enter presentation mode</button>"
 end
 
@@ -270,7 +271,7 @@ My contact: [stephan.sahm@jolin.io](mailto:stephan.sahm@jolin.io), Founder of [J
 """
 
 # ╔═╡ Cell order:
-# ╠═2c1c69cb-69e6-486b-9e81-3d5c30999193
+# ╟─2c1c69cb-69e6-486b-9e81-3d5c30999193
 # ╟─c7d302a8-c0e4-11ec-24f9-5fd8c9a7e341
 # ╟─04bed6e2-4514-4975-ba0e-991bd55853b7
 # ╠═64443e2c-7b56-43ce-aafb-f80b807840ed
